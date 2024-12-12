@@ -1,0 +1,1 @@
+QUESTION:Create a simple webpage with a header, a main content section, and a footer. Apply a media query that changes the background color of the header to blue when the screen width is less than 600px.

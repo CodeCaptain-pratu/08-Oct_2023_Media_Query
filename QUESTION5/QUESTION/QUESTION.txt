@@ -1,0 +1,1 @@
+QUESTION:Create the below given layout using the flexbox in css, which should adapt itself on mobile screen as per given below output.
